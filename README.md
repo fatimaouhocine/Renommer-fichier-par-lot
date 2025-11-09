@@ -2,7 +2,8 @@ Le nom du projet : renommer des fichiers par lot
 Nom de groupe : CEZAM.
 Membre de groupe :
 1.	OUHOCINE Fatima.
-2.	HAMADACHE Nada.//
+2.	HAMADACHE Nada.
+
 Dans le cadre de ce projet nous traitons le sujet de "Renommage de fichiers par lot". L’objectif est de concevoir un programme qui permet de renommer un grand nombre de fichiers en suivant un motif donné par l’utilisateur. 
 Le noyau minimal peut comporter les fonctionnalités suivantes :
 1.	La recherche ou la sélection des fichiers à renommer: Permettre à l’utilisateur de chercher et de sélectionner l’ensemble de fichiers à renommer que ça soit dans le même dossier ou pas.
