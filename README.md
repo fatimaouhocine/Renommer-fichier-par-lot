@@ -1,6 +1,7 @@
 Le nom du projet : renommer des fichiers par lot
 
 Nom de groupe : CEZAM.
+
 Membre de groupe :
 1.	OUHOCINE Fatima.
 2.	HAMADACHE Nada.
