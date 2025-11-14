@@ -1,3 +1,5 @@
-﻿Nom;Prénom;Numero d'étudiant;;nom de groupe ;;sujet traité;;
-Ouhocine;Fatima;20245633;;Cezam;;Ronommer des fichiers par lot;;
-Hamadache;Nada;20246691;;Cezam;;Renommer des fichier par lot;;
+Nom,Prénom,Numero d'étudiant,nom de groupe ,sujet traite
+Ouhocine,Fatima,20245633,Cezam,Ronommer des fichiers par lot
+Hamadache,Nada,20246691,Cezam,Renommer des fichier par lot
+
+
