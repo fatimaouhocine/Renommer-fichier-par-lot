@@ -2,8 +2,8 @@
 ## Groupe CEZAM
 | Nom  |Prénom   | Numéro d'étudiant | 
 |:-----|:-------:|------------------:|
-|Fatima|OUHOCINE |20245633|
-|Nada  |HAMADACHE|20246691|
+|OUHOCINE|Fatima |20245633|
+|HAMADACHE|Nada |20246691|
 
 ## Dans le cadre de ce projet nous traitons le sujet de "Renommage de fichiers par lot". L’objectif est de concevoir un programme qui permet de renommer un grand nombre de fichiers en suivant un motif donné par l’utilisateur.
  ## Noyeau minimal:
